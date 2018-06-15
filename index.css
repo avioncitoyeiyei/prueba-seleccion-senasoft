@@ -1,0 +1,402 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800');
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-color: white;
+}
+.primera{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+.cont1{
+    width: 100%;
+    height: 100%;
+}
+nav .menu{
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 57px;
+    left: 1276px
+}
+nav .logo1{
+    position: absolute;
+    top: 65px;
+    left: 87px;
+}
+nav h1{
+    position: absolute;
+    top: 65px;
+    left: 1208px;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+.titulocentro{
+    font-size: 45px;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    position: absolute;
+    left: 80px;
+    top: 260px;
+    font-weight: normal;
+}
+.bot1{
+    padding: 12px 46px;
+    display: inline-block;
+    background-color: white;
+    bottom: 200px;
+    left: 100px;
+    position: absolute;
+    color: rgb(0,140,255);
+    font-family: 'Nunito', sans-serif;
+    border-radius: 3%;
+    border: 0px solid #000000;
+    height: 22px;
+    width: 88px;
+    font-size: 13px;
+}
+.bot2{
+    padding: 11px 61px;
+    display: inline-block;
+    bottom: 199px;
+    left: 296px;
+    position: absolute;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 3%;
+    border: 2px solid white;
+    height: 22px;
+    width: 62px;
+    font-size: 13px;
+}
+.bot1:hover{
+    background-color: rgb(0,140,255);
+    color: white;
+}
+.bot2:hover{
+    border: 2px solid rgb(0,140,255);
+    color: rgb(0,140,255);
+}
+.cont2{
+    background-color: rgb(61,97,129);
+    width: 100%;
+    height: 430px;
+    position: absolute;
+    top: 844px;
+}
+.cont2 .logo2{
+    width: 50%;
+    height: 100%;
+    z-index: -1;
+}
+.video{
+    width: 50px;
+    position: absolute;
+    top: 731px;
+    left: 541px;
+}
+.tivideo{
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    top: 742px;
+    left: 603px;
+}
+.logohtml{
+    position: absolute;
+    top: 147px;
+    left: 305px
+}
+.titcont2{
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-weight: normal;
+    font-size: 26px;
+}
+.pacont2{
+    font-family: 'Nunito', sans-serif;
+    position: absolute;
+    top: 70px;
+    color: white;
+}
+.contpeque1{
+    height: 284px;
+    width: 455px;
+    position: absolute;
+    top: 62px;
+    left: 800px;
+}
+.pacont1{
+    font-family: 'Nunito', sans-serif;
+    color: rgb(0,140,255);
+    position: absolute;
+    top: 155px;
+}
+.cont3{
+    width: 100%;
+    height: 375px;
+    position: absolute;
+    top: 1274px;
+}
+.contenido1{
+    width: 220px;
+    height: 240px;
+    position: absolute;
+    left: 186px;
+    top: 87px;
+}
+.ticontenido{
+    font-family: 'Nunito', sans-serif;
+}
+.pacontenido{
+    font-family: 'Nunito', sans-serif;
+    position: absolute;
+    top: 45px;
+    color: rgb(61,91,121)
+}
+.botcontenido{
+    position: absolute;
+    top: 177px;
+    font-family: 'Nunito', sans-serif;
+    display: inline-block;
+    left: 0px;
+    height: 22px;
+    width: 77px;
+    color: black;
+    font-size: 13px;
+}
+.botcontenido:hover{
+    color: rgb(0,140,255);
+}
+.contenido2{
+    width: 231px;
+    height: 240px;
+    position: absolute;
+    left: 630px;
+    top: 87px;
+}
+.contenido3{
+    width: 220px;
+    height: 240px;
+    position: absolute;
+    left: 1057px;
+    top: 87px;
+}
+.phone{
+    position: absolute;
+    top: 90px;
+    left: 71px;
+}
+.rayo{
+    position: absolute;
+    left: 515px;
+    top: 90px;
+}
+.p{
+    position: absolute;
+    top: 90px;
+    left: 941px;
+}
+.pazul{
+    font-family: 'Nunito', sans-serif;
+    color: rgb(0,140,255);
+    position: absolute;
+    top: 134px;
+}
+.cont4{
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    top: 1649px;
+}
+.logo4{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+.celular{
+    width: 300px;
+    position: absolute;
+    top: 28px;
+    left: 145px;
+}
+.fondocelular{
+    position: absolute;
+    width: 207px;
+    height: 372px;
+    top: 124px;
+    left: 191px;
+}
+.contenido4{
+    width: 627px;
+    height: 402px;
+    position: absolute;
+    left: 564px;
+    top: 73px;
+}
+.pacontenido4 {
+    font-family: 'Nunito', sans-serif;
+    position: absolute;
+    top: 45px;
+    color: white;
+}
+.ticontenido4{
+    font-family: 'Nunito', sans-serif;
+    color: white;
+}
+.foto{
+    position: absolute;
+    top: 149px;
+}
+.pacontpe{
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    font-style: oblique;
+}
+.c{
+    position: absolute;
+    top: 155px;
+    width: 425px;
+    left: 90px;
+}
+.logocont4{
+    position: absolute;
+    top: 242px;
+    left: 93px;
+}
+.bot4 {
+   padding: 11px 61px;
+    display: inline-block;
+    bottom: 40px;
+     position: absolute;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 3%;
+    border: 2px solid white;
+    height: 22px;
+    width: 62px;
+    font-size: 13px;
+}
+.bot4:hover{
+    border: 2px solid rgb(0,140,255);
+    color: rgb(0,140,255);
+}
+.contenedor5{
+         width: 100%;
+        height: 400px;
+        position: absolute;
+        top: 2149px;
+        z-index: -1;
+}
+.ticont5{
+    color: black;
+    font-family: 'Nunito', sans-serif;
+    font-weight: normal;
+    font-size: 26px;
+    position: absolute;
+    top: 141px;
+    left: 54px;
+}
+.pcont5{
+    font-family: 'Nunito', sans-serif;
+    color:  rgb(61,91,121);
+    position: absolute;
+    top: 192px;
+    left: 54px;
+}
+.pacont5{
+    font-family: 'Nunito', sans-serif;
+    color: rgb(0,140,255);
+    position: absolute;
+    top: 260px;
+    left: 54px;
+}
+ .galeriadefotos{
+    display: flex;
+    background: var(--secondary);
+    grid-template-columns: repeat(5,180px);
+    grid-template-rows: auto 180px 180px;
+    justify-content: center;
+    padding-bottom: 30px;
+    position: absolute;
+    top: 2546px;
+    width: 100%;
+}
+ .galeriadefotos h2{
+    grid-column-start: 1;
+    grid-column-end: 6;
+    padding: 20px 0;
+}
+ .galeriadefotos .item{
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    width: 25%;
+}
+ .galeriadefotos .imagen{
+    width: 100%;
+    height: 100%;
+    transition: .3s;
+    z-index: -1;
+}
+ .galeriadefotos .mascara{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0,0,0,0);
+    transition: .5s;
+}
+ .galeriadefotos .mascara img{
+    width: 50px;
+    transform: scale(0);
+    opacity: 0;
+    transition-duration: .5s;
+    transition-delay: .3s;
+}
+ .galeriadefotos .item:hover .mascara{
+    background:rgba(1,14,26,.8);
+}
+ .galeriadefotos .item:hover .mascara img{
+    opacity: 1;
+    transform: scale(1);
+}
+ .galeriadefotos .item:hover .imagen{
+    transform:scale(1.1);
+}
+.contedor6{
+    width: 100%;
+    height: 430px;
+    background-color: rgb(61,97,129);
+    position: absolute;
+    top: 2706px;
+}
+.bot7{
+    padding: 11px 61px;
+    display: inline-block;
+    bottom: 146px;
+    position: absolute;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 3%;
+    border: 2px solid white;
+    height: 22px;
+    width: 62px;
+    font-size: 13px;
+    left: 567px;
+}
